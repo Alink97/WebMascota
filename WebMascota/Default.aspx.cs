@@ -13,5 +13,15 @@ namespace WebMascota
         {
 
         }
+
+        protected void btnIniListar_Click(object sender, EventArgs e)
+        {
+            Server.Transfer("~/Mascotas.aspx");
+        }
+
+        protected void btnIniAgregar_Click(object sender, EventArgs e)
+        {
+            Server.Transfer("~/Agregar.aspx");
+        }
     }
 }

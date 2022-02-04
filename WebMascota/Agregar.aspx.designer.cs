@@ -11,43 +11,43 @@ namespace WebMascota
 {
 
 
-    public partial class _Default
+    public partial class Agregar
     {
 
         /// <summary>
-        /// btnIniListar control.
+        /// tbNewNombre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnIniListar;
+        protected global::System.Web.UI.WebControls.TextBox tbNewNombre;
 
         /// <summary>
-        /// btnIniAgregar control.
+        /// tbNewRaza control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnIniAgregar;
+        protected global::System.Web.UI.WebControls.TextBox tbNewRaza;
 
         /// <summary>
-        /// btnIniVer control.
+        /// tbNewEdad control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnIniVer;
+        protected global::System.Web.UI.WebControls.TextBox tbNewEdad;
 
         /// <summary>
-        /// Button3 control.
+        /// btnNewMascota control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button3;
+        protected global::System.Web.UI.WebControls.Button btnNewMascota;
     }
 }
